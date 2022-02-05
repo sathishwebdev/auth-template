@@ -53,9 +53,9 @@ small{
 
 .loader {
   border-radius: 50%;
-  border-top: 1px rgba(255, 255, 255, 0 ) solid;
-  border-left: 2px black groove;
-  border-bottom: 2px black groove;
+  border-top: 1px rgba(37, 37, 37, 0) solid;
+  border-left: 2px rgb(37, 37, 37) groove;
+  border-bottom: 2px rgb(39, 39, 39) groove;
   width: 20px;
   height: 20px;
   -webkit-animation: spin 2s linear infinite; /* Safari */

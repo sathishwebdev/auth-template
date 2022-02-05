@@ -582,7 +582,7 @@ const ChangePassword= () =>{
                     size="large"
                     onClick={handleSubmit}
                   >
-                    {loader ? <div className='loader' ></div> : "Change Paasword"}
+                    {loader ? <div className='loader' ></div> : "Change Password"}
                   </Button>
                   <br/>
             <small>
